@@ -1,2 +1,5 @@
 ---
 # defaults file for rhds10
+rhn_user: xxxx
+rhn_password: xxxx
+rhn_pool_id: e985f99c6c8b9588016c8be0f38a0e8a
