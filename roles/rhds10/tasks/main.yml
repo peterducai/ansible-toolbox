@@ -26,3 +26,6 @@
 - name: install DS package
   package:
     name: redhat-ds
+
+- name: run DS setup
+  command: setup-ds-admin.pl
